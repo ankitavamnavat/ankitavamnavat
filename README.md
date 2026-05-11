@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ankitavamnavat
-- 👀 I’m interested in law, cording, ai
-- 🌱 I’m currently learning cording
+- 👋 Hi, I’m @ankitameena
+- 👀 I’m interested in law, coding, ai
+- 🌱 I’m currently learning coding
 - 📫 How to reach me ankitavamnavat@gmail.com
 
 
